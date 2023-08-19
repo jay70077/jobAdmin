@@ -1,8 +1,8 @@
 {
   "name": "jobick",
   "version": "0.1.0",
-  "homepage": "https://jobick.dexignlab.com/react/demo",
-  "private": true,
+  "homepage": "https://jay70077.github.io/jobAdmin",
+  "private": false,
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^35.3.2",
     "@ckeditor/ckeditor5-react": "^5.0.3",
@@ -21,6 +21,7 @@
     "chart.js": "^4.3.3",
     "formik": "^2.2.9",
     "framer-motion": "^8.0.2",
+    "gh-pages": "^6.0.0",
     "lightgallery": "^2.7.0",
     "node-sass": "^8.0.0",
     "nouislider": "^14.7.0",
@@ -64,6 +65,8 @@
     "yup": "^0.32.11"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
