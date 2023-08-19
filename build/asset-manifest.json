@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jobAdmin/static/css/main.3fae78bb.css",
-    "main.js": "/jobAdmin/static/js/main.2ace5244.js",
+    "main.js": "/jobAdmin/static/js/main.23c424d4.js",
     "static/js/591.02b2dc95.chunk.js": "/jobAdmin/static/js/591.02b2dc95.chunk.js",
     "static/js/405.561e8fd5.chunk.js": "/jobAdmin/static/js/405.561e8fd5.chunk.js",
     "static/js/292.a3c89ac6.chunk.js": "/jobAdmin/static/js/292.a3c89ac6.chunk.js",
@@ -125,7 +125,7 @@
     "index.html": "/jobAdmin/index.html",
     "static/media/check.svg": "/jobAdmin/static/media/check.00b7ce7137636f3f980c.svg",
     "main.3fae78bb.css.map": "/jobAdmin/static/css/main.3fae78bb.css.map",
-    "main.2ace5244.js.map": "/jobAdmin/static/js/main.2ace5244.js.map",
+    "main.23c424d4.js.map": "/jobAdmin/static/js/main.23c424d4.js.map",
     "591.02b2dc95.chunk.js.map": "/jobAdmin/static/js/591.02b2dc95.chunk.js.map",
     "405.561e8fd5.chunk.js.map": "/jobAdmin/static/js/405.561e8fd5.chunk.js.map",
     "292.a3c89ac6.chunk.js.map": "/jobAdmin/static/js/292.a3c89ac6.chunk.js.map",
@@ -150,6 +150,6 @@
   },
   "entrypoints": [
     "static/css/main.3fae78bb.css",
-    "static/js/main.2ace5244.js"
+    "static/js/main.23c424d4.js"
   ]
 }
